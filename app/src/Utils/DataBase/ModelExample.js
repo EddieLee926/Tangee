@@ -1,0 +1,1 @@
+//get normal data from DB
