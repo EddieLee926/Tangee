@@ -1,0 +1,7 @@
+const TESSERA_PUBLIC_KEY = {
+    BROKER_A_KEY: "fjVqqEmeT+ubg0eIbC+wKf/gbYDu5CD7IQredyBM4AA=",
+    BROKER_B_KEY: "VGgvWcLYoDnpu3BAC0IxR5Cm4W4yb/KsMxDhQ0nMcyY=",
+    BROKER_C_KEY: "6ZOkoNWBAk36djUNVfQ7m6WPh9onC/wzC6es56HxEXU=",
+}
+
+module.exports = TESSERA_PUBLIC_KEY;
