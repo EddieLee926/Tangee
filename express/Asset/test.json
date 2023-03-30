@@ -1,0 +1,18 @@
+[
+    {
+        "number": "1101",
+        "name": "台泥",
+        "startPrice": "52.20",
+        "highestPrice": "52.40",
+        "lowestPrice": "51.70",
+        "endPrice": "51.90"
+    },
+    {
+        "number": "1102",
+        "name": "亞泥",
+        "startPrice": "46.00",
+        "highestPrice": "46.00",
+        "lowestPrice": "45.40",
+        "endPrice": "45.55"
+    }
+]
